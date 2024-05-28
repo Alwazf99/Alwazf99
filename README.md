@@ -1,6 +1,6 @@
 ###  :man_technologist:  [AlwazFarooqui](https://my-portfolio-nrz2-alwazs-projects.vercel.app/)
 
-👋 Hi, I'm Alwaz Farooqui, a passionate self-taught front-end developer from India 🚀. 
+👋 Hi, I'm Alwaz Farooqui, a passionate self-taught frontend developer from Pune, India 🚀. 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
