@@ -11,7 +11,7 @@
 🔹 Software Engineer with **2 years of experience** in building **scalable web and mobile applications**.  
 🔹 Passionate about **React, React Native, TypeScript, and Node.js**.  
 🔹 Experienced in **building REST APIs, full-stack apps, and optimizing system performance**.  
-🔹 Love contributing to open source & solving coding challenges.  
+🔹 Love solving coding challenges.  
 
 📫 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alwazf99)  
